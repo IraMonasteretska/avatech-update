@@ -1537,6 +1537,13 @@ body.home .header__wrapper {
     transform: translateY(-50%);
 }
 
+.about__statistics.abus {
+    background: #fff;
+}
+
+.about__statistics.abus .statistics-item {
+    color: #000;
+}
 
 
 @media(max-width:1600.8px) {
